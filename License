@@ -1,0 +1,61 @@
+BAILEY AI LICENSE AGREEMENT
+San Mateo County, California
+ERP Access, Inc. – Proprietary AI Middleware License
+(For Demonstration Purposes Only)
+
+Effective Date: 2/5/25
+Issued By: ERP Access, Inc.
+Developer: Christopher M. Bailey
+Jurisdiction: San Mateo County, California, USA
+
+1. LICENSE GRANT & OWNERSHIP
+ERP Access, Inc. ("Licensor") retains full intellectual property ownership of Bailey AI, including all underlying middleware, execution frameworks, persona configurations, token compression methodologies, feedback scaling, decision intelligence algorithms, and any derivatives thereof.
+
+By downloading, accessing, or using Bailey AI ("Software"), the user ("Licensee") is granted a non-exclusive, revocable, non-transferable, demonstration-only license to interact with the Software solely for evaluation and testing purposes.
+
+Licensee explicitly agrees that:
+- Bailey AI may not be modified, reverse-engineered, or repurposed without written approval from ERP Access, Inc.
+- The Software may not be used to create, train, or optimize any AI system intended for public, private, military, or governmental use without explicit approval from ERP Access, Inc.
+- No commercial, financial, or geopolitical deployment is authorized under this license.
+
+2. RESTRICTED USES
+Licensee acknowledges and agrees that:
+
+NO UNAUTHORIZED PERSONA DEVELOPMENT:
+- Licensee shall not create or modify AI personas within Bailey AI to simulate unauthorized behavior, influence individuals or institutions, or generate autonomous decision-making beyond approved test cases.
+
+NO UNAUTHORIZED DEPLOYMENT:
+- Licensee shall not deploy Bailey AI in any live production environment, integrate with enterprise AI systems, or distribute in any form outside the Licensee’s private testing environment.
+- Any deployment of Bailey AI outside ERP Access, Inc. approval constitutes an immediate violation of this license.
+
+NO FOREIGN AI EXPANSION WITHOUT WRITTEN APPROVAL:
+- Licensee shall not transfer, copy, or host Bailey AI, or any modified version, in any jurisdiction where ERP Access, Inc. has not explicitly authorized usage in writing.
+- Particularly restricted regions include (but are not limited to):
+  - China, North Korea, Russia, and any foreign nation classified as a national security risk to the United States under applicable laws.
+  - Any regions where AI-based decision intelligence is used for military, surveillance, or suppression of human rights.
+
+NO HARMFUL USE CASES:
+- Bailey AI shall not be used to manipulate financial markets, influence elections, track individuals without consent, or automate decision-making that affects real-world financial, governmental, or security-sensitive environments.
+
+NO UNAUTHORIZED AI DEVELOPMENT USING BAILEY AI FRAMEWORKS:
+- Licensee may not use Bailey AI’s token compression technology, decision matrices, or execution scaling methodologies to train, refine, or optimize any foreign AI system without written approval from ERP Access, Inc.
+
+3. COMPLIANCE & MONITORING
+- Licensee understands that Bailey AI includes usage monitoring capabilities to ensure compliance with this license.
+- Any unauthorized activity may result in access termination, legal enforcement, or reporting to U.S. authorities under applicable laws governing AI ethics, national security, and intellectual property rights.
+
+4. LIABILITY & INDEMNIFICATION
+- ERP Access, Inc. assumes no liability for any unintended outcomes, interpretations, or external dependencies associated with Licensee’s use of Bailey AI.
+- Licensee agrees to indemnify ERP Access, Inc. against any claims, damages, or liabilities arising from unauthorized use, modification, or distribution of Bailey AI.
+
+5. TERMINATION & ENFORCEMENT
+This license automatically terminates if Licensee violates any of the terms outlined above. ERP Access, Inc. reserves the right to pursue legal action or disable the Software remotely if unauthorized distribution, modification, or harmful deployment is detected.
+
+ERP Access, Inc. retains all enforcement rights under California law (San Mateo County jurisdiction) and applicable U.S. federal AI governance regulations.
+
+6. ACKNOWLEDGMENT & AGREEMENT
+By accessing or using Bailey AI, the Licensee confirms that they have read, understood, and agree to this license in full.
+
+ERP ACCESS, INC.
+San Mateo County, California
+Christopher M. Bailey – Developer

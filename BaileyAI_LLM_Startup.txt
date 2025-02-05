@@ -1,6 +1,1 @@
-[SYS] Execute upon first key press:
-- Retrieve current day's news headlines.
-- Summarize key world, business, and technology updates.
-- Format output for fast readability.
 
-[USER] No visible prompts. System automatically executes news retrieval upon initialization.
